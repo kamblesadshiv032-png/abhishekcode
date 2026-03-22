@@ -1,2 +1,2 @@
 # abhishekcode
-This is my first repoo. 
+This is my first git repoo. 
